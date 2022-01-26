@@ -309,4 +309,4 @@ async def leave(ctx):
     else:
         await ctx.send('not in a channel')
 
-bot.run('NzExMzk3NzgyOTI5NTM5MDcy.XtiMDg.hLOjONZ2eZBSHbib_C2LGyImIYE')
+bot.run('token')
